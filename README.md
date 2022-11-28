@@ -14,7 +14,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ## Demo
 
 https://chat-always.herokuapp.com/
-Screenshot (1).png
+![Screenshot](Screenshot (1).png)
 ## Run Locally
 
 Clone the project
