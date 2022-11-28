@@ -14,8 +14,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ## Demo
 
 https://chat-always.herokuapp.com/
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+Screenshot (1).png
 ## Run Locally
 
 Clone the project
