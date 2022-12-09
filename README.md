@@ -20,7 +20,7 @@ https://chat-always.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Aryan-9211/mern-chat-app
 ```
 
 Go to the project directory
